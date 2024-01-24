@@ -1,0 +1,8 @@
+.btn {
+    background-color: rgb(94, 39, 145);
+    color: gold;
+    border: 1px solid goldenrod;
+    padding: 14px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+}

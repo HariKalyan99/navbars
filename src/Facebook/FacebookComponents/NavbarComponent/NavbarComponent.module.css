@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 67px;
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 34px;
+}
+
+.logoandSearch {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.homeContent{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 70px;
+}
+
+.homeContent a{
+    text-decoration: none;
+    color: rgb(145, 145, 145);
+}
+
+.homeContent a:hover {
+    color: rgb(0, 131, 253);
+}
+
+.homeContentBtns {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}

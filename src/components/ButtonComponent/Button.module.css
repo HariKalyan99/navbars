@@ -1,0 +1,8 @@
+.btn {
+    background-color: black;
+    color: rgb(71, 218, 34);
+    border-radius: 12px;
+    padding: 10px 16px;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+}
